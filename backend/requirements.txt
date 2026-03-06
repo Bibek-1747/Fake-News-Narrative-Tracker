@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-feedparser
-spacy
-pandas
-rake-nltk
-python-dateutil
